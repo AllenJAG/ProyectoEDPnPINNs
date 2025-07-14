@@ -2,9 +2,12 @@
 
 Proyecto final curso de Análisis Numérico de Ecuaciones en Derivadas Parciales: Teoría y Laboratorio MA5307 - Otoño 2025.
 
+Pr. Axel Osses A. 
+Auxiliares : Tomás Banduc \& Cristóbal Godoy 
+
 Universidad de Chile - FCFM. 
 
-Allen A. \& Isidora M. 
+Autores : Allen A. \& Isidora M. (allen.joseph.arroyo@gmail.com)
 
 1. Principalmente se trato de replicar experimentos y entender el paper de Delta-PINNs :
 
