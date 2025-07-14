@@ -7,7 +7,7 @@ Auxiliares : Tomás Banduc \& Cristóbal Godoy
 
 Universidad de Chile - FCFM. 
 
-Autores : Allen A. \& Isidora M. (allen.joseph.arroyo@gmail.com)
+Autores : Allen A. \& Isidora M. (allen.joseph.arroyo@gmail.com isimimi311@gmail.com)
 
 1. Principalmente se trato de replicar experimentos y entender el paper de Delta-PINNs :
 
