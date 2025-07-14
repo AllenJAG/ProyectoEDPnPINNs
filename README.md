@@ -17,4 +17,6 @@ Con Github:  https://github.com/fsahli/Delta-PINNs
 2. Además se vió una aplicación de PINNs del paper : 
 
 Sahli Costabal, F., Yang, Y., Perdikaris, P., Hurtado, D. E., \& Kuhl, E. (2020, February 28). Physics-Informed Neural Networks for Cardiac Activation Mapping
-Con Github : https://github.com/fsahli/EikonalNet
+
+Con Github: https://github.com/fsahli/EikonalNet
+
